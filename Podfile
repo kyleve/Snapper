@@ -9,4 +9,6 @@ use_frameworks!
 
 target 'App' do
 	pod 'ListableUI'
+
+	pod 'SnapperCore', path: 'SnapperCore.podspec'
 end
