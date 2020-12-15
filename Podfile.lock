@@ -1,0 +1,23 @@
+PODS:
+  - ListableUI (0.13.0)
+  - SnapperCore (0.1.0)
+
+DEPENDENCIES:
+  - ListableUI
+  - SnapperCore (from `SnapperCore.podspec`)
+
+SPEC REPOS:
+  trunk:
+    - ListableUI
+
+EXTERNAL SOURCES:
+  SnapperCore:
+    :path: SnapperCore.podspec
+
+SPEC CHECKSUMS:
+  ListableUI: fd16f9ffeeafb39ca01f3f54b107c4b3a9399f00
+  SnapperCore: efa50a6b1c3354b84b8fefb6cab69f209f79cc62
+
+PODFILE CHECKSUM: fc34d63d606db7ab721fdceb8ed30167e416c39f
+
+COCOAPODS: 1.10.0
